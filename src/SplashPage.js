@@ -6,7 +6,7 @@ function SplashPage() {
   return (
     <div className="splash-container">
       <div className="title">
-        <span className="real">REAL</span>
+        <span className="real">* REAL</span>
         <span className="estate">ESTATE</span>
         <span className="nate">NATE</span>
       </div>
