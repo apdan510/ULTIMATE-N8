@@ -16,7 +16,7 @@ const InfoPage = () => {
       <h3 className="subtitle">DRE # 02230219</h3>
         <div className="flex justify-center items-center space-x-4">
           <FontAwesomeIcon icon={faPhone} className="w-8 h-8" />
-          <a href="tel:+15103060701" className="text-xl text-black">(510) 306-6071</a>
+          <a href="tel:+15103066071" className="text-xl text-black">(510) 306-6071</a>
         </div>
         <div className="flex justify-center items-center space-x-4">
           <FontAwesomeIcon icon={faEnvelope} className="w-8 h-8" />
