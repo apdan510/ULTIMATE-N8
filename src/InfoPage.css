@@ -79,6 +79,17 @@
   width: 15%;
 }
 
+.footer {
+  width: 100%;
+  background: #f8f8f8;
+  padding: 10px 0;
+  text-align: center;
+}
+
+.footer-content {
+  color: #333;
+}
+
 @media (max-width: 600px) {
   .jurassic-park {
     font-size: 20vw;
