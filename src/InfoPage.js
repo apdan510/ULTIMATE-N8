@@ -34,10 +34,8 @@ const InfoPage = () => {
       </div>
       <footer className="footer">
         <div className="footer-content">
-          <p>KELLER WILLIAMS REALTY</p>
           <p>4937 Telegraph Ave. Suite A, Oakland CA, 94609</p>
           <p>DRE #02029039</p>
-          <p>Nathan Gogol</p>
         </div>
       </footer>
       <img src="./nate.png" alt="Nathan Gogol" className="nate-portrait" />
