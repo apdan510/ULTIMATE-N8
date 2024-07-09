@@ -57,7 +57,7 @@
 }
 
 .anchor-logo {
-  width: 15%;
+  width: 20%;
   height: auto;
   margin: 5px 0;
 }
@@ -88,6 +88,7 @@
 
 .footer-content {
   color: #333;
+  font-size: 1rem;
 }
 
 @media (max-width: 600px) {
@@ -103,5 +104,9 @@
   .link-item {
     font-size: 4vw;
     padding: 10px 15px;
+  }
+
+  .footer-content {
+    font-size: 0.8rem; /* Reduced font size for mobile versions */
   }
 }
